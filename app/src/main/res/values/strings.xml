@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Codice Fiscale</string>
     <string name="action_settings">Settings</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="birthDate">Date of birth</string>
+    <string name="gender">Gender</string>
 </resources>

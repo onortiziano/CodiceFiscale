@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Codice Fiscale</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="name">Nome</string>
+    <string name="surname">Cognome</string>
+    <string name="birthDate">Data di nascita</string>
+    <string name="gender">Sesso</string>
+</resources>
