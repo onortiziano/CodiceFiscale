@@ -6,4 +6,7 @@
     <string name="surname">Cognome</string>
     <string name="birthDate">Data di nascita</string>
     <string name="gender">Sesso</string>
+    <string name="man">Uomo</string>
+    <string name="woman">Donna</string>
+    <string name="date">gg/mm/aaaa</string>
 </resources>
